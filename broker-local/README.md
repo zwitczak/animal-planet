@@ -1,5 +1,7 @@
 Konfiguracja brokera lokalnego:
 
+https://blog-techniczny.pl/2021/01/02/instalacja-i-konfiguracja-mosquitto-na-raspberry-pi/
+
 1. Instalacja pakietów w Linux
 
 ```
